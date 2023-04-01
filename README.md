@@ -26,7 +26,7 @@ To transform your plain text resume into a beautiful and shareable HTML page, yo
 
 ### I. Use Github Pages to publish it online
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
+1. Edit or move your resume to the `index.md` file in the `docs` fdadoldder.
 2. Go to settings > GitHub pages to make the changes shown....
 
 ![](docs_setup.png)
