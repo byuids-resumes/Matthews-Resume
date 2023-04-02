@@ -16,6 +16,7 @@ Full time byui business analytics student
 ## Summary:
 - A highly skilled communicator with extensive experience working effectively with diverse groups of individuals. Possesses proficiency in Excel, including the ability to create client reports and work with macros and VB. Experienced in data analysis with Python and R, including data visualization and statistical modeling. Basic knowledge of SQL syntax and database structures, with the ability to aggregate and manipulate data across different software tools.
 
+
 ## Education
 
 `Expected Fall 2025`
@@ -24,6 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Business Analytics Major 
 
 - Marketing Minor
+
 
 ## Skills
 - Excel: Proficient in Excel with a solid understanding of the software, including experience with client reports in Excel, Python, and R Studio. Familiar with macros and VB.
